@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @matsjfunke
 - 👀 I’m interested in basically everything🤓
-- 🌱 I’m currently learning python 🐍
 - 📫 How to reach me @ mats.funke@gmail.com
 
 <!---
