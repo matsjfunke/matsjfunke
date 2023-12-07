@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @matsjfunke
 - 👀 I’m interested in basically everything🤓
-- 📫 How to reach me @ mats.funke@gmail.com
 
 <!---
 matsjfunke/matsjfunke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
