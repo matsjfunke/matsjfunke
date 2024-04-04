@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @matsjfunke
-- 👀 I’m interested in basically everything🤓
+Nvim btw...
 
 <!---
 matsjfunke/matsjfunke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
