@@ -1,4 +1,7 @@
-![mariosieg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=matsjfunke&show_icons=true&locale=en&layout=compact&theme=dark)
+# Hi 🤙
 
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) 
-btw...
+i'm into **learning how machines learn**, brazilian jiu-jitsu, reading and start-ups
+
+## There is no ignorabimus!
+
+![matsjfunke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=matsjfunke&show_icons=true&locale=en&layout=compact&theme=dark)
