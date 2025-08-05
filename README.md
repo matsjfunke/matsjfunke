@@ -1,5 +1,5 @@
 # There is no ignorabimus!
 
-i'm into **learning how machines learn**, brazilian jiu-jitsu, reading and start-ups
+i'm into learning how machines learn 🤓🤖, brazilian jiu-jitsu 🥋, reading 📚 and start-ups 🚢
 
-Check out [matsjfunke.com](https://matsjfunke.com)
+Find my learings and thoughts on [matsjfunke.com](https://matsjfunke.com) all website content is also available as `MCP server` [https://mcp.matsjfunke.com/mcp](https://mcp.matsjfunke.com/mcp)
